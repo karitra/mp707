@@ -1,4 +1,4 @@
-package crc8
+package owire
 
 import "testing"
 //import "fmt"

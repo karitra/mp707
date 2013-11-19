@@ -12,7 +12,7 @@
 //
 // [AppNote27] - DALLAS Application note 27
 //
-package crc8
+package owire
 
 import "fmt"
 
